@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👋 I’m @Ishaan1710
 - 👀 I’m interested in coding, Web Development, and puzzle solving (also cricket and gym).
-- 🌱 I’m currently learning Coud Architecting and IoT.
+- 🌱 I’m currently learning Cloud Architecting and IoT.
 - 💞️ I’m looking to collaborate on web development and related projects.
 - 📫 To reach me -> email - ishaanhiwanj@gmail.com
 - ⚡ Fun fact: I was a part of Guinness World record holding event i.e., Space Research Payload Cube Challenge which launched 100 femto satellites in space.
